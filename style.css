@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -749,11 +749,9 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-<<<<<<< HEAD
-    width: 100%;
+    <<<<<<< HEAD width: 100%;
 
-=======
->>>>>>> main
+    =======>>>>>>>main
 }
 
 .portfolio-row {
