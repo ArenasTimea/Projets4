@@ -749,9 +749,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    <<<<<<< HEAD width: 100%;
+    width: 100%;
 
-    =======>>>>>>>main
 }
 
 .portfolio-row {
@@ -825,7 +824,7 @@ e .bgc-dark-slate-blue {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.webp");
+    background-image: url("img/lines-h2-bg-1.webp");
 }
 
 .bg-banniere {
